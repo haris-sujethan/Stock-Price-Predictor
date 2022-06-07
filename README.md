@@ -2,6 +2,8 @@
 
 This program predicts the future price of a stock
 
+***Note:***
+
 ## How it works
 
 Six years of stock data gathered from Yahoo finance is used for training data. The program then displays the prediction graph using the matplot library and compares it to the program's estimate to determine accuracy
