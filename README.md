@@ -2,7 +2,7 @@
 
 This program predicts the future price of a stock
 
-***Note: Please excuse the large amounts of commentS in my code, it's for future revision***
+***Note: Please excuse the large amounts of comments in my code, it's for future revision***
 
 ## How it works
 
